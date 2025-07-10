@@ -1,0 +1,3 @@
+openai
+smtplib2
+email
