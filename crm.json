@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Alice Johnson",
+    "email": "alice.johnson@example.com",
+    "company": "TechSolutions Inc.",
+    "interest": "Enterprise Security Suite"
+  },
+  {
+    "name": "Bob Smith",
+    "email": "bob.smith@innovatek.com",
+    "company": "Innovatek Corp",
+    "interest": "Cloud Storage Plans"
+  },
+  {
+    "name": "Charlie Lee",
+    "email": "charlie.lee@finserve.org",
+    "company": "FinServe Group",
+    "interest": "Financial Analytics Tools"
+  },
+  {
+    "name": "Diana Rose",
+    "email": "diana.rose@meditech.co",
+    "company": "MediTech Co.",
+    "interest": "Healthcare CRM"
+  },
+  {
+    "name": "Ethan Brown",
+    "email": "ethan.brown@edulabs.edu",
+    "company": "EduLabs",
+    "interest": "E-learning Platform"
+  }
+]
